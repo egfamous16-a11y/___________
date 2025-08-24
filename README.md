@@ -327,7 +327,7 @@
                     </div>
                     <div class="memory-content">
                         <h3>"Belum Ngantuk Seng"</h3>
-                        <p>Ngeliat kamu ngantuk tuh lucu banget, apalagi pas lagi asik ngobrol tiba-tiba diam… eh ternyata udah ketiduran.gemes pen aku karungin</p>
+                        <p>Ngeliat kamu ngantuk tuh lucu banget, apalagi pas lagi asik ngobrol tiba-tiba diam… eh ternyata udah ketiduran.padahal 5 menit yang lalu blg "blom ngantuk seng"</p>
                         <div class="memory-date">
                             <span></span>
                         </div>
