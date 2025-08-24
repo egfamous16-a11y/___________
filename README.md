@@ -311,7 +311,7 @@
                         <img src="asset/yapping.jpg" class="memory-image" alt="1st Anniversary">
                     </div>
                     <div class="memory-content">
-                        <h3>Quen Yapping</h3>
+                        <h3>Queen Yapping</h3>
                         <p>Aku selalu ketawa sendiri kalau kamu mulai yapping. Kadang ceritanya ngawur absurd dan kadang punya pemikiran out of the box, tapi justru itu yang bikin aku betah dengerin kamu terus. Aku suka caramu cerita, karena dari situ aku bisa lihat betapa hidupnya kamu. Jangan pernah berhenti yapping ya, soalnya itu bagian favoritku dari kamu.</p>
                         <div class="memory-date">
                             <span></span>
