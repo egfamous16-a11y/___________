@@ -426,10 +426,10 @@ Aku akan tetap di sini, ngedukung kamu dengan cara paling sederhana yang aku bis
                         </div>
                         <h3 class="text-xl font-semibold">Love</h3>
                     </div>
-                    <p class="text-gray-700">Mungkin caramu nunjukin cinta agak unik—kadang gengsimu setinggi langit,
+                    <p class="text-gray-700">Mungkin caramu nunjukin cinta agak unik kadang gengsimu setinggi langit,
 marahnya keliatan cuek, tapi aku tahu di balik itu kamu actually care banget.
 Setiap kali kita ribut, kamu kesel sendiri, mikir sendiri, dan akhirnya… ya, mellow sendiri.
-Lucu sih, tapi justru dari situ aku tahu: your love is real, your love is purely genuine semoga,kamu selalu begini dan akan tetap begini, love u </p>
+Lucu sih, tapi justru dari situ aku tahu your love is real, your love is purely genuine semoga,kamu selalu begini dan akan tetap begini, love u </p>
                 </div>
                 
                 <!-- Wish 4 -->
@@ -441,9 +441,9 @@ Lucu sih, tapi justru dari situ aku tahu: your love is real, your love is purely
                         <h3 class="text-xl font-semibold">Adventure</h3>
                     </div>
                     <p class="text-gray-700">Kamu hebat, Seng… atau lebih tepatnya, my partner in life aku tahu caramu bertahan selama ini, dan itu bukan hal yang mudah, bahkan cukup menegangkan.
-Dari luar kamu tampak bercahaya, berapi-api, tapi bersamamu semuanya terbalik dan terasa lebih tenang dan jujur, aku suka sisi itu.
+Dari luar kamu tampak bercahaya, berapi-api, tapi bersamaku semuanya terbalik dan terasa lebih tenang dan jujur, aku suka sisi itu.
 Aku suka caramu berkembang, berpikir, mencari solusi, dan aku percaya kamu punya potensi besar untuk mencapai tempat yang selama ini kamu tuju.
-I'm totally proud of you — keep going, karena apa pun yang terjadi, aku akan selalu ada di sampingmu.</p>
+I'm totally proud of you keep going, karena apa pun yang terjadi, aku akan selalu ada di sampingmu.</p>
                 </div>
             </div>
             
